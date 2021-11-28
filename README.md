@@ -6,4 +6,4 @@ This program can be used to mosaic the picture in a custom way by selecting some
 
 This program is written in Matlab language, and some pictures have been provided for the testing purpose.
 
-Please download 'final_version.m' and 'readimage.m' files.
+Please download 'final_version.m', 'readimage.m' and 'test.jpeg' files.
